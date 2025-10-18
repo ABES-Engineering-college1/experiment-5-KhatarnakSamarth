@@ -1,2 +1,38 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/N62qxoCJ)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21151703&assignment_repo_type=AssignmentRepo)
+# SAMARTH VERMA | ECE-1 | 2025B03110142
+---
+# 🧪 Experiment-4
+### Create a Web Page for Student Registration Form
+Using form attributes (method, action, placeholder, required) and Email Validation
+
+---
+
+## 🎯 Objectives
+1. To design a **student registration** form using HTML.
+2. To apply form attributes:
+    - method → Defines how data is sent.
+    - action → Defines where data is sent.
+    - placeholder → Displays hint text.
+    - required → Ensures mandatory fields are filled.
+3. To implement **basic email validation** using the `type="email"` attribute.
+
+---
+
+## 🛠️ Tools Required
+- 💻 Computer / Laptop with any OS  
+- 📝 Text Editor (VS Code, Sublime Text, Notepad++)  
+- 🌐 Web Browser (Chrome, Edge, Firefox)  
+
+---
+
+## 📚 Theory
+
+### 1. HTML Forms (`<form>`)
+Used to collect user input.
+### 2. Form Attributes
+- **method="post"** : Sends form data securely.
+- **action="submit.html"** : Defines where the form data goes (dummy page here).
+- **placeholder="Enter Name"** : Shows hint text inside input box.
+- **required** : Makes the field compulsory.
+### 3. Email Validation
+**Using type="email"** to ensures user enters data in email format (e.g., `abc@example.com`).   
+Example: `<input type="email"></input>`
